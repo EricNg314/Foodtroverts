@@ -20,7 +20,7 @@ What do you have to lose? Get started today!
 
 
 ## Use the app! :ice_cream:
-Launch Foodtroverts [here!](https://jimmytutron.github.io/Foodtroverts/)
+Launch Foodtroverts [here!](https://ericng314.github.io/Foodtroverts/)
 
 ## Built With :pizza:
 
